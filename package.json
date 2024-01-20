@@ -1,7 +1,7 @@
 {
   "homepage": "https://ketapi05.github.io/Portfolio_Website/",
   "name": "01portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
